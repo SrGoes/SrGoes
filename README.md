@@ -1,4 +1,4 @@
-## Opa eu sou Gabriel Goes e estou cursando Desenvolvimento de sistemas!
+## Opa eu sou Gabriel Goes!
 <div align="center">
   <a href="https://github.com/SrGoes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrGoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
