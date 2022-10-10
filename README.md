@@ -2,6 +2,12 @@
   Opa, eu sou o Gabriel Goes!
 </h1>
 
+Permaneço explorando minha paixão pela tecnologia e buscando por oportunidades que possam expandir meu conhecimento. Aqui você pode encontrar alguns projetos que desenvolvi durante a minha jornada na ETEC.
+
+- :computer: Iniciei minha jornada na programação em 2021.
+
+- :books: Cursando Técnico em Desenvolvimento de Sistemas, na ETEC Cidade Tiradentes.
+
 <div align="center">
   <a href="https://github.com/SrGoes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrGoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
