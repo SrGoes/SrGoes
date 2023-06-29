@@ -1,12 +1,10 @@
 <h1 align="center">
-  Opa, eu sou o Gabriel Goes!
+  Hi, i'm Gabriel Goes!
 </h1>
 
-Permaneço explorando minha paixão pela tecnologia e buscando por oportunidades que possam expandir meu conhecimento. Aqui você pode encontrar alguns projetos que desenvolvi durante a minha jornada na ETEC.
+- :computer: I'm a Systems Developer!.
 
-- :computer: Iniciei minha jornada na programação em 2021.
-
-- :books: Cursando Técnico em Desenvolvimento de Sistemas, na ETEC Cidade Tiradentes.
+- :books: Currently studying Technical Systems Development at ETEC Cidade Tiradentes.
 
 <div align="center">
   <a href="https://github.com/SrGoes">
@@ -15,12 +13,16 @@ Permaneço explorando minha paixão pela tecnologia e buscando por oportunidades
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img alt="sqlserver" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 
